@@ -93,27 +93,11 @@ Explore the notebook and test different Python code snippets to see how they are
 
 This project is developed and maintained by:
 
-- **Your Name** – Creator and lead developer
-- **Contributor Name(s)** – Optional contributors
-
+- **Cherki Meziane** – Creator and lead developer
 ---
 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
-
-## Explanation
-
-The repository provides an automated tool for converting Python code into C++, which is especially useful for developers who need to optimize Python scripts or work with performance-critical applications.
-
-Python is well-known for its ease of use and readability, while C++ is often chosen for its performance advantages in computational-heavy tasks. By leveraging this repository, developers can translate Python code into efficient C++ code without having to manually rewrite scripts.
-
-The following images further explain the conversion process:
-- **Code Conversion Process**: The flowchart illustrates the major steps in converting Python to C++, which include code parsing, analysis, and the final generation of equivalent C++ code.
-- **Gradio Interface**: The image showing the Gradio interface highlights the tool's simplicity and interactive design, enabling users to quickly test various Python code inputs and instantly view the resulting C++ code.
-
-This tool is designed for both beginners and experienced developers who want to streamline the process of cross-language development and performance optimization.
 
 ---
