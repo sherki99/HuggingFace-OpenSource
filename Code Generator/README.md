@@ -30,21 +30,12 @@ This repository includes tools for converting Python code into C++ in an efficie
 
 The following images illustrate key parts of the code conversion process.
 
-### 1. **Code Conversion Process: Python to C++**
-
-The flowchart below shows the steps involved in converting Python code to C++ code. This high-level overview will guide you through the conversion process.
-
-![Code Conversion Process](./images/c++%20code%20conversion.png)
-
 ### 2. **Gradio Interface for Python to C++ Conversion**
 
-This image demonstrates the Gradio interface used in the tool for interactive code conversion. It provides a user-friendly way to input Python code and instantly see the corresponding C++ code.
-
-![Code Conversion Process](../images/c++%20code%20conversion.png)
 ![Gradio Interface for Conversion](../images/immageofgradio_convert_py_to_c++.png)
 
 
----
+---This image demonstrates the Gradio interface used in the tool for interactive code conversion. It provides a user-friendly way to input Python code and instantly see the corresponding C++ code.
 
 ## Usage
 
