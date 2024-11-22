@@ -12,7 +12,7 @@ This repository also includes practical demonstrations using Jupyter Notebooks a
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Images](#images)
+- [Image](#images)
 - [Usage](#usage)
 - [Code Generation](#code-generation)
 - [Contributors](#contributors)
@@ -28,14 +28,15 @@ This repository includes tools for converting Python code into C++ in an efficie
 
 ## Images
 
-The following images illustrate key parts of the code conversion process.
+The following image illustrate key parts of the code conversion process.
 
-### 2. **Gradio Interface for Python to C++ Conversion**
+###  **Gradio Interface for Python to C++ Conversion**
 
 ![Gradio Interface for Conversion](../images/immageofgradio_convert_py_to_c++.png)
 
 
----This image demonstrates the Gradio interface used in the tool for interactive code conversion. It provides a user-friendly way to input Python code and instantly see the corresponding C++ code.
+---
+This image demonstrates the Gradio interface used in the tool for interactive code conversion. It provides a user-friendly way to input Python code and instantly see the corresponding C++ code.
 
 ## Usage
 
