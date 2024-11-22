@@ -56,15 +56,7 @@ Move into the `Code Generator` folder:
 cd Code-Generator
 ```
 
-### Step 3: Install Dependencies
-
-Install the necessary Python dependencies using `pip`:
-
-```bash
-pip install -r requirements.txt
-```
-
-### Step 4: Run the Jupyter Notebook
+### Step 3: Run the Jupyter Notebook
 
 Launch the Jupyter notebook to start experimenting with code conversion:
 
